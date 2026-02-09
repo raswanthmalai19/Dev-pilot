@@ -3,7 +3,7 @@
 **A comprehensive AI-powered platform for cybersecurity analysis and DevOps automation**
 
 [![Python](https://img.shields.io/badge/python-3.10+-blue.svg)](https://www.python.org/downloads/)
-[![License](https://img.shields.io/badge/license-MIT-green.svg)](./LICENSE)
+[![License](https://img.shields.io/badge/license-Public%20Domain-green.svg)](./LICENSE)
 [![Open Source](https://img.shields.io/badge/open%20source-free-brightgreen.svg)](https://opensource.org/)
 [![Status](https://img.shields.io/badge/status-production--ready-success.svg)](#)
 

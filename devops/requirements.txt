@@ -1,0 +1,30 @@
+# DevOps Automation Agent - Agentic SDLC
+# Fully autonomous DevOps pipeline using Gemini LLM
+
+google-generativeai>=0.8.0
+pydantic>=2.0
+python-dotenv>=1.0
+docker>=7.0
+pyyaml>=6.0
+jinja2>=3.1
+aiofiles>=23.0
+structlog>=24.0
+rich>=13.0
+typer>=0.9.0
+
+# GitHub Integration
+PyGithub>=2.1.1        # Primary GitHub API library
+httpx>=0.24.0          # REST API fallback
+
+cryptography>=42.0  # For secrets encryption
+pytest>=8.0
+pytest-asyncio>=0.23
+
+# Dev Pilot - GCP Native SDK Dependencies
+google-cloud-build>=3.0
+google-cloud-run>=0.10
+google-cloud-artifact-registry>=1.11
+google-cloud-logging>=3.10
+google-cloud-monitoring>=2.18
+google-cloud-storage>=2.14  # For Cloud Build source upload
+
